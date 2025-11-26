@@ -17,7 +17,7 @@
 #ifndef VERSION_H
 #define VERSION_H
 
-#define SHORT_VERSION "1.4"
-#define LONG_VERSION  "1.4.2"
+#define SHORT_VERSION "2.8"
+#define LONG_VERSION  "2.8.4"
 
 #endif /* VERSION_H */
